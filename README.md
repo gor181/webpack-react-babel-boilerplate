@@ -7,7 +7,8 @@ Used as a start learning point.
 ### Usage
 
 ``
-npm i && npm run dev   
+npm i && npm run dev 
+
 open http://localhost:8080
 ``
 
